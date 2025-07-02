@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+draft-calculator.py
+*:Zone.Identifier
+Docs/Py-Calc-Screenshot.png
