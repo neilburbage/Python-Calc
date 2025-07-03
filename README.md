@@ -46,8 +46,9 @@ Tkinter ships with the standard interpreter on many platforms
 
 ```
 Python-Calc/
-|
-├── calculator.py    # GUI Calculator script
+├── Docs/
+│   └── Py-Calc-Screenshot-edit.png 
+├── calculator.py    # single file GUI
 ├── .gitignore       # .venv/, __pycache__/
 └── README.md        # you are here
 ```

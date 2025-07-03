@@ -1,7 +1,14 @@
+# Python artefacts
 __pycache__/
 *.py[cod]
+
+# Local virtual-env
 .venv/
+
+# IDE metadata
 .idea/
+
+# scratch files
 draft-calculator.py
 *:Zone.Identifier
 Docs/Py-Calc-Screenshot.png
